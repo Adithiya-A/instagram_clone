@@ -5,9 +5,9 @@
       "user": {
         "id": 101,
         "username": "john_doe",
-        "profile_pic": "/assets/users/john.jpg"
+        "profile_pic": "src/assets/john.jpg"
       },
-      "image": "/assets/posts/mountain.jpg",
+      "image": "src/assets/post1.jpg",
       "caption": "Beautiful sunset 🌄 #Nature",
       "likes": 120,
       "comments": [
@@ -27,9 +27,9 @@
       "user": {
         "id": 102,
         "username": "emma_watson",
-        "profile_pic": "/assets/users/emma.jpg"
+        "profile_pic": "src/assets/emma.jpg"
       },
-      "image": "/assets/posts/coffee.jpg",
+      "image": "src/assets/post2.jpg",
       "caption": "Morning coffee and coding ☕💻",
       "likes": 250,
       "comments": [
@@ -49,9 +49,9 @@
       "user": {
         "id": 103,
         "username": "alex_codes",
-        "profile_pic": "/assets/users/alex.jpg"
+        "profile_pic": "src/assets/alex.jpg"
       },
-      "image": "/assets/posts/react-project.jpg",
+      "image": "src/assets/post3.jpg",
       "caption": "Finished building my Instagram Clone 🚀",
       "likes": 430,
       "comments": [
@@ -71,9 +71,9 @@
       "user": {
         "id": 104,
         "username": "travel_guru",
-        "profile_pic": "/assets/users/travel.jpg"
+        "profile_pic": "src/assets/travel.jpg"
       },
-      "image": "/assets/posts/beach.jpg",
+      "image": "src/assets/post4.jpg",
       "caption": "Paradise found 🏝️",
       "likes": 780,
       "comments": [
@@ -93,9 +93,9 @@
       "user": {
         "id": 105,
         "username": "foodie_world",
-        "profile_pic": "/assets/users/foodie.jpg"
+        "profile_pic": "src/assets/foodie.jpg"
       },
-      "image": "/assets/posts/burger.jpg",
+      "image": "src/assets/post5.jpg",
       "caption": "Double cheese burger 🍔❤️",
       "likes": 350,
       "comments": [

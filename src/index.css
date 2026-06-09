@@ -8,8 +8,20 @@
 
 .bi{
   margin-right: 10px;
+  margin-left: 10px;
 }
 
 .story{
   height: 70px;
+}
+
+.dp{
+  height: 40px;
+  width: 40px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.image{
+  width: 500px;
 }
