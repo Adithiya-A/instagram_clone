@@ -1,0 +1,114 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "/assets/users/john.jpg"
+      },
+      "image": "/assets/posts/mountain.jpg",
+      "caption": "Beautiful sunset 🌄 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2026-06-07T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "emma_watson",
+        "profile_pic": "/assets/users/emma.jpg"
+      },
+      "image": "/assets/posts/coffee.jpg",
+      "caption": "Morning coffee and coding ☕💻",
+      "likes": 250,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Perfect combo!"
+        },
+        {
+          "user": "alex_codes",
+          "comment": "Coffee first, code later 😂"
+        }
+      ],
+      "timestamp": "2026-06-07T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "alex_codes",
+        "profile_pic": "/assets/users/alex.jpg"
+      },
+      "image": "/assets/posts/react-project.jpg",
+      "caption": "Finished building my Instagram Clone 🚀",
+      "likes": 430,
+      "comments": [
+        {
+          "user": "emma_watson",
+          "comment": "Looks awesome!"
+        },
+        {
+          "user": "john_doe",
+          "comment": "Can you share the GitHub repo?"
+        }
+      ],
+      "timestamp": "2026-06-06T18:45:00Z"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "travel_guru",
+        "profile_pic": "/assets/users/travel.jpg"
+      },
+      "image": "/assets/posts/beach.jpg",
+      "caption": "Paradise found 🏝️",
+      "likes": 780,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Need a vacation ASAP 😍"
+        },
+        {
+          "user": "emma_watson",
+          "comment": "This view is unreal!"
+        }
+      ],
+      "timestamp": "2026-06-05T11:20:00Z"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "foodie_world",
+        "profile_pic": "/assets/users/foodie.jpg"
+      },
+      "image": "/assets/posts/burger.jpg",
+      "caption": "Double cheese burger 🍔❤️",
+      "likes": 350,
+      "comments": [
+        {
+          "user": "alex_codes",
+          "comment": "Now I'm hungry 🤤"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Looks delicious!"
+        }
+      ],
+      "timestamp": "2026-06-04T20:10:00Z"
+    }
+  ]
+}
